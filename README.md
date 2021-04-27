@@ -13,4 +13,6 @@ Meu nome é **Wellington Junior** sou desenvolvedor **Back-end**, já trabalhei 
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1024px-Go_Logo_Blue.svg.png"></a></code>
 
 ---
+Rede sociais:
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-njr)](https://www.linkedin.com/in/wellington-njr)
