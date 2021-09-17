@@ -1,18 +1,20 @@
-### Olá 👋
+### Oie 👋
 
+Gosto de está sempre aprendendo algo novo.
 
-<img align="right" height="200" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif"/>
+##  Mais sobre mim
 
-Desenvolvedor **Back-end**, já trabalhei com tecnologias antigas como: Basic, Delphi e hoje estou aprendendo cada vez mais sobre Nodejs, PHP, Python e GO.
-- :closed_book: Atualmente estou estudando SOLID, DDD, Serverless, Microsserviços
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
+```go
+package main
 
-<code><img height="32" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
-<code><img height="25" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png"></code>
-<code><img height="25" src="https://www.php.net/images/logos/php-logo-bigger.png"></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1024px-Go_Logo_Blue.svg.png"></a></code>
-
+func main() {
+ primarySkillset := "ALGUMAS HABILIDADES"
+ languages := []string{"NodeJs/TypeScript", "PHP", "Golang"}
+ frameworks := []string{"Laravel", "ExpressJs", "NestJs", "Angular"}
+}
+```
 ---
-Rede sociais:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-njr)](https://www.linkedin.com/in/wellington-njr)
