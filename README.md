@@ -6,17 +6,17 @@
 ```yml
 personal:
   name: 'Wellington Junior'
-  age: 27
-  city: 'Itajaí-SC, Brazil'
+  age: 28
+  city: 'Castanhal-PA, Brazil'
 professional:
   employed: true
   title: 'Systems Analyst'
   employer: 'MadeiraMadeira'
 bio:
   skills:
-    - 'Nodejs'
-    - 'TypeScript'
-    - 'ExpressJs'
+    - 'PHP'
+    - 'Golang'
+    - 'Github'
     - 'Docker'
   hobbies:
     - 'program'
