@@ -1,25 +1,23 @@
+<h1 align="center">Wellington Junior</h1>
 
+<p align="center">
+  <strong>Backend Developer | Golang | PHP </strong><br>
+</p>
 
+<p align="center">
+  <a href="https://github.com/welittonjr"><img src="https://img.shields.io/github/followers/welittonjr?label=GitHub&style=social"></a>
+  <a href="https://www.linkedin.com/in/welittonjr/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=welittonjr&style=flat" alt="profile views" />
+</p>
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-```yml
-personal:
-  name: 'Wellington Junior'
-  age: 28
-  city: 'Castanhal-PA, Brazil'
-professional:
-  employed: true
-  title: 'Systems Analyst'
-  employer: 'MadeiraMadeira'
-bio:
-  skills:
-    - 'PHP'
-    - 'Golang'
-    - 'Github'
-    - 'Docker'
-  hobbies:
-    - 'program'
-    - 'listen to music'
-```
 ---
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+## 👨‍💻 About me
+
+```yaml
+name: Wellington Junior
+location: Castanhal-PA, Brazil
+role: Backend Developer
+focus: Golang | PHP | DDD 
