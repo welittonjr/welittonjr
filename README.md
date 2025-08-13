@@ -30,9 +30,3 @@ Repositório contendo projetos de estudo e experimentação com a linguagem Go (
 4. [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org) [API de Agendamento em Go](https://github.com/welittonjr/golang-scheduling-api) (Em Desenvolvimento)  
    **Descrição**: API RESTful para gerenciamento de agendamentos desenvolvida em Go. Inclui operações CRUD, autenticação e integração com banco de dados. Projeto em andamento com atualizações constantes.  
    **Tópicos abordados**: REST APIs, estrutura de projetos Go, banco de dados, autenticação.
-
-## 📌 Como Contribuir
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias ou correções.
-
-## 📄 Licença
-Todos os projetos estão sob a licença MIT - veja o arquivo LICENSE em cada repositório para mais detalhes.
