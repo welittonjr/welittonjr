@@ -23,7 +23,7 @@ Repositório contendo projetos de estudo e experimentação com a linguagem Go (
 3. [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org) 
    [![Fluentd](https://img.shields.io/badge/Fluentd-0E83C8?style=flat&logo=fluentd&logoColor=white)](https://www.fluentd.org/) 
    [![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat&logo=newrelic&logoColor=white)](https://newrelic.com/)
-   [Integração de Logs: stdout + Fluentd + New Relic](https://github.com/welittonjr/go-newrelic-stdout-logs) (Em Desenvolvimento)  
+   [Integração de Logs: stdout + Fluentd + New Relic](https://github.com/welittonjr/go-newrelic-stdout-logs)
    
    **Descrição**: Solução de monitoramento de logs em Go que integra saída padrão (stdout) com Fluentd para coleta e New Relic para análise e visualização.
 
